@@ -42,7 +42,7 @@
                 <Label Content="Выбранный элемент" FontWeight="Bold" FontSize="14" Margin="5"/>
                 <Label Content="Модель:" FontSize="13" Margin="15"/>
                 <TextBox x:Name="modelTextBox" Margin="0,0,0,15" Height="25"/>
-                <Label Content="Производитель:" FontSize="13" Margin="5"/>
+                <Label Content="Компания:" FontSize="13" Margin="5"/>
                 <TextBox x:Name="companyTextBox" Margin="0,0,0,15" Height="25"/>
                 <Label Content="Цена:" FontSize="13" Margin="0,0,0,15"/>
                 <TextBox x:Name="priceTextBox" Margin="0,0,0,15" Height="25"/>
